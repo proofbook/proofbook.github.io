@@ -9,7 +9,7 @@ body {
 }
 
 a, a:visited {
-	color: #ff5522;
+	color: #427738;
 	text-decoration: underline;
 }
 
@@ -17,7 +17,7 @@ a:hover {
 	text-decoration: none;
 }
 
-/* РѕР±С‰РёРµ СЃС‚РёР»Рё РґР»СЏ СЃР°Р№С‚Р° */
+
 .alignCenter { text-align: center; }
 .alignLeft { text-align: left; }
 .alignRight { text-align: right; }
